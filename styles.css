@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: rgb(134, 0, 0);
+}
+
+.contenido{
+    justify-content: center;
+}
+
+.parrafo{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+
+.sub{
+    color: rgb(134, 0, 0);
+    justify-content: center;
+}
